@@ -73,6 +73,15 @@ html::before {
 
 }
 
+.box .right form {
+    padding-left: 10%;
+}
+
+/* .box .right form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+} */
 /* 表单元素样式 */
 .box .right form .Miku {
     outline: none;
