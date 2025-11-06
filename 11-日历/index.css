@@ -70,7 +70,7 @@ body {
 .calendar tbody td:hover {
     background: #f292b1;
     color: #fff;
-    font: 600 25px '';
+    font: 600 25px;
 }
 
 .current-day {
